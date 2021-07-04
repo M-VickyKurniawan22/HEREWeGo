@@ -1,0 +1,2 @@
+rootProject.name = "HERE WeGo"
+include ':app'
